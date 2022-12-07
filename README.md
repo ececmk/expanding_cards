@@ -1,1 +1,1 @@
-# expanding_cards with HTML, CSS and JavaScript.
+#Expabding Cards with HTML, CSS and JavaScript.
